@@ -1,0 +1,299 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1440px;
+	min-height: 2394px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	margin-bottom: 242px;
+}
+
+#pu5777
+{
+	width: 0.01px;
+	left: -100px;
+	position: relative;
+}
+
+#u5777
+{
+	z-index: 2;
+	width: 204px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C9E56C;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5778
+{
+	z-index: 3;
+	width: 206px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F6FEC3;
+	position: relative;
+	margin-right: -10000px;
+	left: 204px;
+}
+
+#u5779
+{
+	z-index: 4;
+	width: 206px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFD263;
+	position: relative;
+	margin-right: -10000px;
+	left: 410px;
+}
+
+#u5780
+{
+	z-index: 5;
+	width: 206px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F77A68;
+	position: relative;
+	margin-right: -10000px;
+	left: 616px;
+}
+
+#u5781
+{
+	z-index: 6;
+	width: 210px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #DD9BC1;
+	position: relative;
+	margin-right: -10000px;
+	left: 821px;
+}
+
+#u5782
+{
+	z-index: 7;
+	width: 206px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C399E5;
+	position: relative;
+	margin-right: -10000px;
+	left: 1027px;
+}
+
+#u5783
+{
+	z-index: 8;
+	width: 214px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #7098DE;
+	position: relative;
+	margin-right: -10000px;
+	left: 1225px;
+}
+
+#u5784
+{
+	z-index: 9;
+	width: 201px;
+	height: 12px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #63BBE9;
+	position: relative;
+	margin-right: -10000px;
+	left: 1438px;
+}
+
+#u5785
+{
+	z-index: 10;
+	width: 275px;
+	left: -5px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#pu5880
+{
+	width: 0.01px;
+	left: -100px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u5880
+{
+	z-index: 12;
+	width: 1640px;
+	height: 607px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F80DD;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5881
+{
+	z-index: 13;
+	width: 195px;
+	height: 243px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 940px;
+	left: 1248px;
+}
+
+#u5881:hover
+{
+	border-color: #7098DE;
+	width: 195px;
+	height: 243px;
+	min-height: 0px;
+	margin: 940px -10000px 0px 0px;
+}
+
+#u5827
+{
+	z-index: 14;
+	width: 1440px;
+	position: relative;
+	margin-right: -10000px;
+	left: 102px;
+}
+
+#u5923
+{
+	z-index: 16;
+	width: 694px;
+	height: 165px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1925px;
+	left: 109px;
+}
+
+#u5924
+{
+	z-index: 17;
+	width: 727px;
+	height: 165px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1925px;
+	left: 813px;
+}
+
+#u5921
+{
+	z-index: 18;
+	width: 196px;
+	height: 244px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 940px;
+	left: 1248px;
+}
+
+.ie #u5923,.ie #u5924,.ie #u5921
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5921:hover
+{
+	border-width: 3px;
+	border-style: solid;
+	border-color: #7098DE;
+	width: 193px;
+	height: 241px;
+	min-height: 0px;
+	margin: 939px -10002px -2px -1px;
+}
+
+#u5922
+{
+	z-index: 19;
+	width: 604px;
+	height: 747px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 860px;
+	left: 517px;
+}
+
+.ie #u5922
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5922:hover
+{
+	border-width: 3px;
+	border-style: solid;
+	border-color: #7098DE;
+	width: 601px;
+	height: 744px;
+	min-height: 0px;
+	margin: 859px -10002px -2px -1px;
+}
+
+.ie #u5921:hover,.ie #u5922:hover
+{
+	opacity: 1;
+	-ms-filter: "";
+	filter: none;
+	background-color: transparent;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
